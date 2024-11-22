@@ -1,4 +1,4 @@
 # whereIsManual
 
-[Embedded Docs](./embedded.md)
-[Frontend Docs](./frontend.md)
+- [Embedded Docs](./embedded.md)
+- [Frontend Docs](./frontend.md)
